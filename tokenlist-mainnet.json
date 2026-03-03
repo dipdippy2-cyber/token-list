@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2026-03-02T14:57:52.898987+00:00",
+  "timestamp": "2026-03-03T16:16:49.746470+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -569,6 +569,14 @@
     },
     {
       "chainId": 143,
+      "address": "0x7Cd231120a60F500887444a9bAF5e1BD753A5e59",
+      "name": "Hyperithm Delta Neutral Vault",
+      "symbol": "aHYPER",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/aHYPER/logo.svg"
+    },
+    {
+      "chainId": 143,
       "address": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
       "name": "aPriori Monad LST",
       "symbol": "aprMON",
@@ -1057,7 +1065,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   }
 }
