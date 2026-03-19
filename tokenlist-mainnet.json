@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2026-03-13T15:01:37.008623+00:00",
+  "timestamp": "2026-03-19T10:05:11.242584+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -820,6 +820,26 @@
     },
     {
       "chainId": 143,
+      "address": "0xC50f2e735eDd9dCD8Ccd41EcFE9894E679e3195f",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "rocket-pool-eth",
+        "bridgeInfo": {
+          "protocol": "Chainlink CCIP",
+          "bridgeAddress": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB"
+        },
+        "crossChainAddresses": {
+          "1": {
+            "address": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+          }
+        }
+      },
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/rETH/logo.svg"
+    },
+    {
+      "chainId": 143,
       "address": "0xD793c04B87386A6bb84ee61D98e0065FdE7fdA5E",
       "name": "sAUSD",
       "symbol": "sAUSD",
@@ -1113,7 +1133,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 31,
+    "minor": 32,
     "patch": 0
   }
 }
