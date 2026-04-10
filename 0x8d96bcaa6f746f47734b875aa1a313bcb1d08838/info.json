@@ -1,1 +1,6 @@
-
+{
+  "name": "PUPPI",
+  "symbol": "PUPPI",
+  "decimals": 18,
+  "description": "The green puppy of Monad."
+}
